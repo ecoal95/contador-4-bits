@@ -32,7 +32,7 @@
 </head>
 <body>
 	<div class="container">
-		<form action="index.php" mehod="POST">
+		<form action="index.php" method="POST">
 			<label for="nums">Introduce los números separados por comas</label>
 			<input type="text" id="nums" name="nums" placeholder="1,4,5,7,2...">
 			<input type="submit" value="Está">
