@@ -158,6 +158,7 @@
 		</section>
 		<footer>
 			<p>&copy; 2013 Emilio Cobos Álvarez (<a href="http://emiliocobos.net">http://emiliocobos.net</a>) &lt;<a href="mailto:emiliocobos@usal.es">emiliocobos@usal.es</a>&gt;.</p>
+			<p>El código está <a href="http://github.com/ecoal95/contador-4-bits">aquí</a></p>
 		</footer>
 	</div>
 	<script src="assets/js/selectable.js"></script>
